@@ -1,5 +1,5 @@
 # ditch-framework
-a simple java gui wrapper, element oriented, targeted to beginners who wants to see a window, not command prompt.
+a simple java gui wrapper, element oriented, targeted to beginners who wants to see a window, not a command prompt.
 
 ## concept
 when i was in the shower earlier, i thought to myself,
