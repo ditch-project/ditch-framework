@@ -41,3 +41,6 @@ basically its gonna have both of them, pick and choose.
 ### the real license, for you legal nerds
 [![creative commons license](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 this work is licensed under a [creative commons attribution 4.0 international license](http://creativecommons.org/licenses/by/4.0/).
+
+## credits
+**font:** https://fontesk.com/basically-a-sans-serif-font/
