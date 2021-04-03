@@ -1,4 +1,4 @@
-package org.ditch.flags;
+package test.beta.v0.flags;
 
 import javax.swing.*;
 

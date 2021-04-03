@@ -1,6 +1,6 @@
-package org.ditch;
+package test.beta.v0;
 
-import org.ditch.flags.WindowFlags;
+import test.beta.v0.flags.WindowFlags;
 
 public class DitchGUI {
     //object initializers

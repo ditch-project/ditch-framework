@@ -103,7 +103,8 @@ public class Client extends Canvas implements Runnable{
         g.setColor(Color.white);
         g.setFont(font);
 
-        g.drawString("test", 100, 100);
+        //actual functions here
+        g.drawString("fishy has firetruck with brother", 100, 100);
 
         g.dispose();
         bs.show();
@@ -112,5 +113,7 @@ public class Client extends Canvas implements Runnable{
     public static void main(String[] args) {
         new Client();
     }
+
+    //TODO: create a unwrapper function to simplfy gu=i cration
 
 }
